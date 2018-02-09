@@ -36,7 +36,7 @@ group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug'
 end
-gem 'pg'
+gem 'pg', '~> 0.18.4'
 group :development do
   gem 'sqlite3'
 
