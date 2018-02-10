@@ -15,7 +15,17 @@
  */
 
 .jumbotron-fluid{
-    background-image: url("https://images.pexels.com/photos/639090/pexels-photo-639090.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb");
+    background-image: url("https://images.pexels.com/photos/88476/pexels-photo-88476.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb");
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: whitesmoke;
+}
+
+.jumbotron-fluid2{
+    background-image: url("https://images.pexels.com/photos/158651/news-newsletter-newspaper-information-158651.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb");
     background-repeat: no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;

@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'pages/network'
+
   get 'pages/hello'
 
   get 'pages/contact'
