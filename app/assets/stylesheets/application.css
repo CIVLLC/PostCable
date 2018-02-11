@@ -34,3 +34,13 @@
     color: whitesmoke;
 }
 
+
+.jumbotron-fluid3{
+    background-image: url("https://images.pexels.com/photos/236171/pexels-photo-236171.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb");
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: whitesmoke;
+}

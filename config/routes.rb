@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'pages/culture'
+
   get 'pages/network'
 
   get 'pages/hello'
