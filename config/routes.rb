@@ -1,9 +1,13 @@
 Rails.application.routes.draw do
+  get 'pages/technology'
+
+  get 'pages/food'
+
   get 'pages/culture'
 
   get 'pages/network'
 
-  get 'pages/hello'
+
 
   get 'pages/contact'
   get 'pages/home'

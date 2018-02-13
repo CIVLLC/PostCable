@@ -13,7 +13,8 @@
  *= require_tree .
  *= require_self
  */
-
+/*
+FOOD */
 .jumbotron-fluid{
     background-image: url("https://images.pexels.com/photos/450059/pexels-photo-450059.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb");
     background-repeat: no-repeat;
@@ -22,7 +23,8 @@
     -o-background-size: cover;
     background-size: cover;
     color: whitesmoke;
-}
+}/*
+FOOD */
 
 .jumbotron-fluid2{
     background-image: url("https://images.pexels.com/photos/158651/news-newsletter-newspaper-information-158651.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb");
@@ -34,9 +36,35 @@
     color: whitesmoke;
 }
 
-
+/*
+FOOD */
 .jumbotron-fluid3{
     background-image: url("https://images.pexels.com/photos/236171/pexels-photo-236171.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb");
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: whitesmoke;
+}
+
+/*
+FOOD */
+.jumbotron-fluid4{
+    background-image: url("https://images.pexels.com/photos/372882/pexels-photo-372882.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb");
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: whitesmoke;
+}
+
+
+/*
+TECH */
+.jumbotron-fluid5{
+    background-image: url("https://images.pexels.com/photos/247932/pexels-photo-247932.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb");
     background-repeat: no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
