@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'pages/sports'
+
   get 'pages/technology'
 
   get 'pages/food'
